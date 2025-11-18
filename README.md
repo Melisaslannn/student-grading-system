@@ -23,15 +23,15 @@ The system supports two distinct user roles: **Staff** and **Student**.
     * Attendance is below 70%.
 * **Runtime Data:** Data is stored in memory (dictionaries) and resets when the program closes.
 
-## 🛠️ Requirements
+## Requirements
 * **Python 3.10 or higher** is required
 
-## 🔐 Demo Credentials
+## Demo Credentials
 You can use these pre-defined accounts to test the system:
-**Staff `staff` , `pass123` 
-**Student `melisa` , `cs123` 
+* **Staff `staff` , `pass123` 
+* **Student `melisa` , `cs123` 
 
-## 🔮 Future Plans (To-Do)
+## Future Plans (To-Do)
 * [ ] **Database Integration:** Implement SQLite for persistent data storage.
 * [ ] **Security:** Hash user passwords instead of storing them as plain text.
 * [ ] **GUI:** Add a Graphical User Interface using Tkinter or PyQt.
