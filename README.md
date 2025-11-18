@@ -28,8 +28,8 @@ The system supports two distinct user roles: **Staff** and **Student**.
 
 ## Demo Credentials
 You can use these pre-defined accounts to test the system:
-* **Staff `staff` , `pass123` 
-* **Student `melisa` , `cs123` 
+* Staff `staff` , `pass123` 
+* Student `melisa` , `cs123` 
 
 ## Future Plans (To-Do)
 * [ ] **Database Integration:** Implement SQLite for persistent data storage.
